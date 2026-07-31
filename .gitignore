@@ -22,6 +22,8 @@ GEMINI.md
 .windsurfrules
 .cursorrules
 .mcp.json
+.github/hooks/orchard.json
+.github/copilot-instructions.md
 **/.orchard-seeded.json
 .planning/
 /sessions/
